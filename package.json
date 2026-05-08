@@ -1,0 +1,14 @@
+{
+  "name": "novel-creator",
+  "version": "1.0.0",
+  "description": "AI 小说创作助手 - 多维度分析 + 创意续写",
+  "main": "src/api/server.js",
+  "scripts": {
+    "start": "node src/api/server.js",
+    "dev": "node src/api/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.18.0"
+  }
+}
